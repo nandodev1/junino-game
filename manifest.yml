@@ -1,0 +1,5 @@
+---
+applications:
+ - name: junino-game
+   random-route: true
+   memory: 128M
