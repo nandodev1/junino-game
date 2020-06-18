@@ -1,5 +1,5 @@
 ---
 applications:
- - name: junino-game
+ - name: web-page-for-test-0112
    random-route: true
    memory: 128M
